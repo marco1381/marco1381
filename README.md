@@ -20,7 +20,7 @@ I'm a **2nd-year Python student** at the **University of Greenwich** 🏫, passi
 ---
 
 ## 📫 **How to Reach Me**
-- Email: [marco.gi@gotmail.it](mailto:marco.gi@gotmail.it)
+- Email: [marco.gi@hotmail.it](mailto:marco.gi@hotmail.it)
 - GitHub: [github.com/marco1381](https://github.com/marco1381)
 
 ---
